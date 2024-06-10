@@ -7,8 +7,6 @@
 
 - Thank you to RyiSnow for the amazing tutorial. This is just my own spin on his original idea.
 
-- CCH
-
 
 
 
