@@ -1,4 +1,4 @@
-# githubJavaGame - Adventureland (name will probably change)
+# githubJavaGame - Mystic Scrolls
 
 
 
